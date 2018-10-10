@@ -1,5 +1,6 @@
 ---
 title: Home Page
+path: /medical-protection
 en:
   description: Medical Protection Description
   image: /media/duck-2.png
