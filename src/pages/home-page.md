@@ -22,6 +22,21 @@ en:
           image: /media/duck-2.png
           meetAnAgent: Meet an Agent
       heading: Medical Expense Reimbursement
+    - cards:
+        - description: >-
+            With only one premium payment, the expectant mother can enjoy up to
+            3 years’ pre- and post-natal coverage for herself and the newborn.
+            Its two benefit levels, Standard and Superior, allow you to choose
+            the level of coverage that best suits your budget and personal
+            insurance needs.
+          features:
+            - feature: Pregnancy Complications Benefit for the Expectant Mother
+            - feature: Congenital Illnesses Benefit for the Child
+            - feature: Hospital Income Benefit for the Expectant Mother and the Child
+          heading: Precious Mom and Child Insurance
+          image: /media/duck-2.png
+          meetAnAgent: Meet an Agent
+      heading: Protection tailored for the new mom and the newborn
   title: Medical Protection
 ---
 
