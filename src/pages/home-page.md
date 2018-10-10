@@ -5,7 +5,7 @@ en:
   description: Medical Protection Description
   image: /media/duck-2.png
   main:
-    - card:
+    - cards:
         - description: >-
             Smart Medicare Insurance will reimburse the actual medical expenses
             incurred and cover you up to age 100. You can also extend coverage
